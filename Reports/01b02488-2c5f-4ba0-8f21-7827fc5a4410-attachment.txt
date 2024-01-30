@@ -1,0 +1,5 @@
+{"id":10061781,"first_name":"TestingTesting","middle_name":"X","last_name":"World","date_of_birth":"12/12/2000"}
+10061781
+{"status":"true","msg":"Add  data success"}
+{"status":"true","msg":"Add  data success"}
+{"status":"true","data":{"first_name":"TestingTesting","middle_name":"X","last_name":"World","date_of_birth":"12/12/2000","TechnicalDetails":[],"Address":[]}}
